@@ -1,5 +1,9 @@
 # Second Brain Evolution
 
+[![Hermes Agent Skill](https://img.shields.io/badge/Hermes-Agent-Skill-00B8FF?style=flat-square)](https://github.com/tylerdotai/second-brain-evolution)
+[![Unlicense](https://img.shields.io/badge/License-Unlicense-success?style=flat-square)](LICENSE)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-tylerdotai%2Fsecond--brain--evolution-success?style=flat-square)](https://github.com/tylerdotai/second-brain-evolution)
+
 A Hermes Agent skill that scans your Obsidian vault for new and updated notes, identifies patterns, and automatically creates reusable skills from what it finds.
 
 Built for AI agents running [Hermes](https://github.com/nousresearch/hermes-agent) who want a self-evolving knowledge base — the vault gets smarter over time, not just bigger.
