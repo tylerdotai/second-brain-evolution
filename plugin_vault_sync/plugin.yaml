@@ -1,0 +1,3 @@
+name: vault-sync
+version: 1.0.0
+description: "Write turn summaries to Obsidian vault after each conversation turn."
