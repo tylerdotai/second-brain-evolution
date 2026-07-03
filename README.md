@@ -11,7 +11,7 @@
 [![License: Unlicense](https://img.shields.io/github/license/tylerdotai/second-brain-evolution?style=flat-square)](https://github.com/tylerdotai/second-brain-evolution)
 [![Stars](https://img.shields.io/github/stars/tylerdotai/second-brain-evolution?style=flat-square)](https://github.com/tylerdotai/second-brain-evolution/stargazers)
 [![Issues](https://img.shields.io/github/issues/tylerdotai/second-brain-evolution?style=flat-square)](https://github.com/tylerdotai/second-brain-evolution/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/tylerdotai/second-brain-evolution/main?style=flat-square)](https://github.com/tylerdotai/second-brain-evolution/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/tylerdotai/second-brain-evolution/master?style=flat-square)](https://github.com/tylerdotai/second-brain-evolution/commits/master)
 
 </div>
 
